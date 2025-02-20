@@ -1,0 +1,5 @@
+pip~=23.2.1
+flet~=0.26.0
+opencv-python~=4.11.0.86
+ollama~=0.4.7
+flet-lottie~=0.1.0
